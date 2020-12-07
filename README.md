@@ -1,8 +1,8 @@
 # openresty-project-demo
 ## 目录说明
-./conf nginx配置文件
-./lua  项目的lua源文件
-./resty_modules 第三方依赖，用opm安装
+- `./conf` nginx配置文件
+- `./lua`  项目的lua源文件
+- `./resty_modules` 第三方依赖，用opm安装
 
 ## 依赖包安装
 ```bash
